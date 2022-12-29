@@ -22267,3 +22267,15 @@ topbarre .divNav {
 .nav-link:hover, .nav-link:focus {
   color: #ab7442;
 }
+
+.sect2Fond {
+  background-color: #f5f5f5;
+  width: 30%;
+  text-align: center;
+  height: 50%;
+}
+
+.sect2Numb {
+  color: #f5f5f5;
+  font-size: 50px;
+}
