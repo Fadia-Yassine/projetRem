@@ -4,3 +4,14 @@
     margin-left: 20%;
     margin-right: 20%;
 }
+section:nth-child(4){
+    .card {
+        overflow:hidden
+    }
+    .card img {
+        width:100%;height:auto;
+    }
+    .card img:hover {
+        -webkit-transform:scale(1.2);transform:scale(1.2);-webkit-transition:.5s ease-in-out;transition:.5s ease-in-out;
+    }
+}
