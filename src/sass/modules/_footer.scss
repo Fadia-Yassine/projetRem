@@ -1,0 +1,40 @@
+footer{
+    background-color: #303030;
+    color: white;
+    margin-top: 5%;
+    padding-top: 5%;
+}
+.rowFooter{
+    padding-bottom: 5%;    
+}
+.colFooter{
+    h5{
+        font-family: LeObizarre;
+        text-transform: capitalize;
+    }
+    ul{
+        padding-left: 0rem;
+        li{
+            text-transform: capitalize;
+            list-style: none;
+        }
+    }
+    .rowFoot2{
+        .colFoot2{
+            margin-bottom: 5px;
+            .imgFooter{
+                width: 80px;
+            }
+        }
+    }
+}
+.barrBasFoot{
+    display: flex;
+    justify-content: space-around;
+    padding: 1%;
+    font-size: x-small;
+    div{
+        text-transform: capitalize;
+        color: white;
+        }
+}
