@@ -22347,3 +22347,26 @@ section:nth-child(4) .card img:hover {
 .sect5Deux {
   padding-left: 10%;
 }
+
+.imgSect6 {
+  height: 100%;
+  width: 130%;
+}
+
+.btnsect6 {
+  border: none;
+}
+
+.divSect6 {
+  width: 50%;
+  padding: 10%;
+  padding-left: 20%;
+}
+
+.cardSect7 {
+  width: 60%;
+}
+
+.imgSect7 {
+  width: 60%;
+}
