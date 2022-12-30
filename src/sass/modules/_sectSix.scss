@@ -13,6 +13,21 @@
 }
 
 // animation
+section:nth-child(6){
+    .card{
+        overflow:hidden
+    }
+    .card .card2{
+        width:100%;
+        height:auto;
+    }
+    .card .card2:hover {
+        -webkit-transform:scale(1.0);transform:scale(1.05);-webkit-transition:.5s ease-in-out;transition:.5s ease-in-out;
+    }
+}
+
+
+
 .card2 {
     display: inline-block;
     vertical-align: middle;

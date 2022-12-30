@@ -22363,6 +22363,18 @@ section:nth-child(4) .card img:hover {
   padding-left: 20%;
 }
 
+section:nth-child(6) .card {
+  overflow: hidden;
+}
+section:nth-child(6) .card .card2 {
+  width: 100%;
+  height: auto;
+}
+section:nth-child(6) .card .card2:hover {
+  transform: scale(1.05);
+  transition: 0.5s ease-in-out;
+}
+
 .card2 {
   display: inline-block;
   vertical-align: middle;
