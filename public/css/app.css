@@ -22287,7 +22287,7 @@ topbarre .divNav {
 }
 
 .imgSect3 {
-  height: 90%;
+  height: 70%;
   width: 100%;
 }
 
@@ -22318,4 +22318,22 @@ section:nth-child(4) .card img {
 section:nth-child(4) .card img:hover {
   transform: scale(1.2);
   transition: 0.5s ease-in-out;
+}
+
+.divSect5 {
+  padding: 10%;
+  padding-top: 15%;
+}
+
+.imgSect5 {
+  height: 50%;
+}
+
+.sect5 {
+  padding-left: 10%;
+  padding-top: 10%;
+}
+
+.sect5Deux {
+  padding-left: 10%;
 }
