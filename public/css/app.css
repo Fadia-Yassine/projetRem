@@ -22280,6 +22280,10 @@ topbarre .divNav {
   font-size: 50px;
 }
 
+.gDivSect3 {
+  height: 35rem;
+}
+
 .sect3Fond {
   background-color: white;
   height: 20%;
@@ -22287,8 +22291,8 @@ topbarre .divNav {
 }
 
 .imgSect3 {
-  height: 70%;
-  width: 100%;
+  height: 100%;
+  width: 120%;
 }
 
 .sect3Btn {
@@ -22301,6 +22305,12 @@ topbarre .divNav {
 span {
   color: #ab7442;
   font-size: 30px;
+}
+
+.divSect3 {
+  width: 50%;
+  padding: 10%;
+  padding-left: 15%;
 }
 
 .sect4Div {
